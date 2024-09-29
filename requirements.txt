@@ -1,0 +1,5 @@
+black
+pytest
+pytest-cov
+ruff
+python-dateutil
